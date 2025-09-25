@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kajus Maleckas\\Desktop\\strukt-prog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65527667-6259-40AF-8C31-EE12A2DE59A4}|strukt-prog\\strukt-prog.vcxproj|C:\\Users\\Kajus Maleckas\\Desktop\\strukt-prog\\strukt-prog\\strukt-prog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65527667-6259-40AF-8C31-EE12A2DE59A4}|strukt-prog\\strukt-prog.vcxproj|solutionrelative:strukt-prog\\strukt-prog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "strukt-prog.cpp",
+              "DocumentMoniker": "C:\\Users\\Kajus Maleckas\\Desktop\\strukt-prog\\strukt-prog\\strukt-prog.cpp",
+              "RelativeDocumentMoniker": "strukt-prog\\strukt-prog.cpp",
+              "ToolTip": "C:\\Users\\Kajus Maleckas\\Desktop\\strukt-prog\\strukt-prog\\strukt-prog.cpp",
+              "RelativeToolTip": "strukt-prog\\strukt-prog.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowDwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-25T09:38:51.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
